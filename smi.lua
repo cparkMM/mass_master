@@ -1,7 +1,7 @@
 script_name('News Network')
 script_author('ZAKO & cpark')
-script_version_number(10)
-script_version("1.0")
+script_version_number(12)
+script_version("1.2")
 script_properties("forced-reloading-only")
 
 require "lib.moonloader"
